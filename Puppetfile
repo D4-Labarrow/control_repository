@@ -29,6 +29,7 @@ mod 'herculesteam-augeasproviders_core', '2.6.0'
 mod 'camptocamp-kmod', '2.5.0'
 mod 'puppetlabs-cron_core', '1.0.5'
 mod 'puppetlabs-vsphere', '1.5.0'
+mod 'puppetlabs-docker', '4.0.0'
 
 
 # Modules from the Puppet Forge
