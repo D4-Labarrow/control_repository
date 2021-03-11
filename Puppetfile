@@ -30,7 +30,8 @@ mod 'camptocamp-kmod', '2.5.0'
 mod 'puppetlabs-cron_core', '1.0.5'
 mod 'puppetlabs-vsphere', '1.5.0'
 mod 'puppetlabs-docker', '4.0.0'
-
+mod 'puppetlabs-java', '7.0.0'
+mod 'puppet-jenkins', '2.0.0'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
